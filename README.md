@@ -2,7 +2,8 @@
 I took existing Mandelbrot image generator from https://www-fourier.ujf-grenoble.fr/mobile/~parisse/info/makepng.cc and parallelized it using CUDA.
 
 Results: 
-
+  
+  
 On an 14177x14177 image:
   
    All program (including write png which is not parallelized):
